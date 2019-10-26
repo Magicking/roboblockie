@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="60"
-   height="70"
-   viewBox="0 0 15.875 18.520834"
+   width="69.099998"
+   height="70.383324"
+   viewBox="0 0 18.282708 18.622255"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
@@ -46,8 +46,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.627417"
-     inkscape:cx="13.460411"
-     inkscape:cy="37.124367"
+     inkscape:cx="18.010417"
+     inkscape:cy="37.124379"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="true"
@@ -61,7 +61,7 @@
     <inkscape:grid
        type="xygrid"
        id="grid4524"
-       originx="-43.52396"
+       originx="-42.320104"
        originy="-144.28622" />
   </sodipodi:namedview>
   <metadata
@@ -80,7 +80,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-43.523958,-134.19295)"
+     transform="translate(-42.320102,-134.09153)"
      style="display:inline"
      sodipodi:insensitive="true">
     <rect
@@ -96,7 +96,7 @@
      id="layer3"
      inkscape:label="face_level_1"
      style="display:inline"
-     transform="translate(-4.1479301e-7,-0.04399332)">
+     transform="translate(1.2038554,0.05742461)">
     <path
        transform="translate(-43.523958,-134.14896)"
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.02645833;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
